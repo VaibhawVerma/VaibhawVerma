@@ -1,4 +1,4 @@
-## Hi there 👋 I am Vaibhaw Verma
+# Hi there 👋 I am Vaibhaw Verma
 
 # 💫 About Me:
 I am a passionate developer from India. I am interested in core computing.
